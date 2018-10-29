@@ -11,9 +11,6 @@ In this project, I'll create a neural network architecture consisting of both CN
 
 ## Getting the Files
 
-### Download the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/cv/p2-automatic-image-captioning.zip)
 
 ### Data
 
